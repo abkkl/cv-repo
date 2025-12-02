@@ -1,5 +1,7 @@
 # wrangler.toml
 name = 'cvhome'
+main = "index.html"
+compatibility_date = "2025-09-08"
 
 [observability]
 enabled = false
